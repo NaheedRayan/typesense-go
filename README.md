@@ -11,7 +11,7 @@ Go client for the Typesense API: https://github.com/typesense/typesense
 ## Installation
 
 ```
-go get github.com/typesense/typesense-go/v3/typesense
+go get github.com/typesense/typesense-go/v2/typesense
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ go get github.com/typesense/typesense-go/v3/typesense
 Import the the package into your code :
 
 ```go
-import "github.com/typesense/typesense-go/v3/typesense"
+import "github.com/typesense/typesense-go/v2/typesense"
 ```
 
 Create new client:
